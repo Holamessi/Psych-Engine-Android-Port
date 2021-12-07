@@ -1,0 +1,30 @@
+{
+	"storyName": "spiders",
+	"hideFreeplay": false,
+	"weekBackground": "giantspiders",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"The Giant Enemy Spider",
+			"giantenemyspider",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
