@@ -1,0 +1,48 @@
+{
+	"storyName": "BF'S WIFE FOREVER",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Wife Forever",
+			"sky",
+			[
+				180,
+				100,
+				255
+			]
+		],
+		[
+			"Sky",
+			"sky-annoyed",
+			[
+				180,
+				100,
+				255
+			]
+		],
+		[
+			"Manifest",
+			"sky-mad",
+			[
+				55,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Week 7"
+}
