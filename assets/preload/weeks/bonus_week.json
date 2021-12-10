@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Lo Fight",
+			"whitty",
+			[
+				60,
+				80,
+				135
+			]
+		],
+		[
+			"Overhead",
+			"whitty",
+			[
+				60,
+				80,
+				135
+			]
+		],
+		[
+			"Ballistic",
+			"whittyCrazy",
+			[
+				255,
+				0,
+				13
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"whitty",
+		"bf",
+		"gf"
+	],
+	"storyName": "Back Alley Blitz",
+	"weekName": "Week W",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
