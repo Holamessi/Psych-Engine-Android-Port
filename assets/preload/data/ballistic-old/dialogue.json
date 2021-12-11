@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "whittyport",
+			"boxState": "angry",
+			"expression": "Crazy",
+			"text": "ENOUGH."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport",
+			"boxState": "angry",
+			"expression": "Crazy",
+			"text": "THEY'VE TAKEN ALL I EVER HAD."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport",
+			"boxState": "angry",
+			"expression": "Crazy",
+			"text": "I'VE BEEN DOOMED INTO AN ENDLESS CYCLE OF RUNNING AND HIDING FROM THINGS I CANNOT CONTROL."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport",
+			"boxState": "angry",
+			"expression": "Crazy",
+			"text": "CURSE YOU, CURSE YOU AND THE FILTH THAT BROUGHT YOU INTO THIS WORLD."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boyfriendport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baboop peebo"
+		}
+	]
+}
