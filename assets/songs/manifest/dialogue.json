@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "skymad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skygf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I what?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "skymad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You stole Boyfriend away from me.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skygf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "skymad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And now. you. will. PAY"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah. Que the obligatory last song\\ntransformation."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "skymad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU SHUT UP!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "skygf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ha. you manifest crusifixions but can't\\nmanifest any guys."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "skymad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'LL MAKE YOU EAT THOSE WORDS, RED HEAD BITCH!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "skygf",
+			"boxState": "normal",
+			"expression": "finger",
+			"text": "Go shift to Danganronpa you dweeb  ;P"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ok GF, i think your being a bit mean don't you think..?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "skymad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you worry my sweet boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skymad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You won't ever have to worry about her rude ass no longer."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Woah! Now how about we just sit down and talk??"
+		}
+	]
+}
