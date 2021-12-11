@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skyannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "skyannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean you don't want to date me?/"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "skyannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean you're in a commited\\nrelationship??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "skyannoyed",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "N-NO NO wait!!"
+		}
+	]
+}
