@@ -4,50 +4,57 @@
 			"speed": 0.05,
 			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "Agitated",
-			"text": "I see how it is."
+			"expression": "talk",
+			"text": "..Who-"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "boyfriendport",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "brep bappity boop"
+			"text": "beep boop"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "Agitated",
-			"text": "You're really pushing my limits, dude."
+			"expression": "talk",
+			"text": "oh, you two."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whittyport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would both of you kindly leave me alone? I don't want anyone knowin' I'm here."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "boyfriendport",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "bip bep skoo de boop"
+			"text": "bip boop beep "
 		},
 		{
 			"speed": 0.05,
 			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "Agitated",
-			"text": "Well how about you go die in a ditch instead."
+			"expression": "talk",
+			"text": "...Listen, I ain't lookin' for trouble tonight, just leave and all will be cool."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "boyfriendport",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "bepoobee skoop"
+			"text": "beepo bap skeboop "
 		},
 		{
 			"speed": 0.05,
 			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "Agitated",
-			"text": "...Don't make me do this. "
+			"expression": "talk",
+			"text": "..."
 		}
 	]
 }
