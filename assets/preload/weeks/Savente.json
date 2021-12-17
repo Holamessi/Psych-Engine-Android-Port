@@ -1,0 +1,57 @@
+{
+	"storyName": "mid fight masses",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Week 6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Parish",
+			"sarvente",
+			[
+				246,
+				113,
+				253
+			]
+		],
+		[
+			"Worship",
+			"sarvente-dark",
+			[
+				206,
+				113,
+				253
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				146,
+				133,
+				153
+			]
+		],
+		[
+			"Gospel",
+			"sarvente-lucifer",
+			[
+				246,
+				13,
+				233
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekSarv"
+}

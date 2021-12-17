@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Casanova",
+			"selever",
+			[
+				186,
+				33,
+				135
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "?????????",
+	"weekName": "Week8",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "WeekSarv",
+	"startUnlocked": true
+}
