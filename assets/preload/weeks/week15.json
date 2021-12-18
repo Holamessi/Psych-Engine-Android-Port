@@ -1,0 +1,57 @@
+{
+  "songs": [
+    [
+      "Safety Lullaby",
+      "hypno",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Left-Unchecked",
+      "Hypno2",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Monochrome",
+      "Gold ",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Missingno",
+      "Missingno",
+      [
+        146,
+        113,
+        253
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "weekCharacters": [
+    "da",
+    "bf",
+    "gf"
+  ],
+  "storyName": "Messi",
+  "weekName": "Custom Week",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}
