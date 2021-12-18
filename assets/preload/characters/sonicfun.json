@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				-21,
+				66
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Tails IDLE"
+			"name": "SONICFUNIDLE"
 		},
 		{
 			"offsets": [
-				158,
-				-14
+				393,
+				-60
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Tails LEFT"
+			"name": "SONICFUNLEFT"
 		},
 		{
 			"offsets": [
-				33,
-				-60
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Tails DOWN"
-		},
-		{
-			"offsets": [
-				14,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Tails RIGHT"
-		},
-		{
-			"offsets": [
-				29,
-				49
+				21,
+				70
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Tails UP"
+			"name": "SONICFUNUP"
+		},
+		{
+			"offsets": [
+				46,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICFUNDOWN"
+		},
+		{
+			"offsets": [
+				-86,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICFUNRIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tails",
+	"image": "characters/SonicFunAssets",
 	"position": [
-		140,
-		240
+		10,
+		-10
 	],
-	"healthicon": "tailsexe",
+	"healthicon": "sonicfun",
 	"flip_x": false,
 	"healthbar_colors": [
-		102,
-		102,
-		102
+		0,
+		0,
+		226
 	],
 	"camera_position": [
-		-160,
-		30
+		-130,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.3
+	"scale": 1
 }

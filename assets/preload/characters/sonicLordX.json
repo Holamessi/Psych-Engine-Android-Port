@@ -3,87 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				91,
-				-120
+				81,
+				28
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Eggman_Down",
+			"name": "X_Down instance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				75,
-				-10
+				-5,
+				50
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Eggman_Idle",
+			"name": "X_Idle instance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				245,
-				93
+				25,
+				73
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Eggman_Left",
+			"name": "X_Left instance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				84,
-				186
+				-68,
+				89
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Eggman_Right",
+			"name": "X_Right instance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				151,
-				277
+				51,
+				167
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Eggman_Up",
+			"name": "X_Up instance",
 			"indices": []
-		},
-		{
-			"offsets": [
-				10,
-				237
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "laugh",
-			"loop": false,
-			"name": "Eggman_Laugh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/eggman_soul",
+	"image": "characters/LordX",
 	"position": [
 		0,
 		130
 	],
-	"healthicon": "eggmanexe",
+	"healthicon": "lordx",
 	"flip_x": false,
 	"healthbar_colors": [
-		153,
-		102,
-		0
+		120,
+		119,
+		176
 	],
 	"camera_position": [
-		-80,
-		-180
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }

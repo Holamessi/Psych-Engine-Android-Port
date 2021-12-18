@@ -1,89 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				91,
-				-120
+				200,
+				-10
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Eggman_Down",
+			"name": "sanic down",
 			"indices": []
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				75,
-				-10
+				0,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Eggman_Idle",
+			"name": "sanic idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				245,
-				93
+				11,
+				-3
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Eggman_Left",
+			"name": "sanic left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				84,
-				186
+				20,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Eggman_Right",
+			"name": "sanic right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				151,
-				277
+				96,
+				6
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Eggman_Up",
+			"name": "sanic up",
 			"indices": []
-		},
-		{
-			"offsets": [
-				10,
-				237
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "laugh",
-			"loop": false,
-			"name": "Eggman_Laugh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/eggman_soul",
+	"image": "characters/sanic",
 	"position": [
-		0,
-		130
+		-910,
+		-570
 	],
-	"healthicon": "eggmanexe",
+	"healthicon": "sanic",
 	"flip_x": false,
 	"healthbar_colors": [
-		153,
-		102,
-		0
+		0,
+		0,
+		126
 	],
 	"camera_position": [
-		-80,
-		-180
+		720,
+		670
 	],
-	"sing_duration": 4,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 0.3
 }
