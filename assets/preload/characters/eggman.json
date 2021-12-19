@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				91,
-				-120
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Eggman_Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				75,
-				-10
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "Eggman_Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				245,
-				93
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Eggman_Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				186
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Eggman_Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				151,
-				277
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Eggman_Up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				10,
-				237
+				-20,
+				10
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "laugh",
+			"anim": "idle",
+			"loop": false,
+			"name": "Eggman_Idle"
+		},
+		{
+			"offsets": [
+				119,
+				249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Eggman_Up"
+		},
+		{
+			"offsets": [
+				40,
+				174
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Eggman_Right"
+		},
+		{
+			"offsets": [
+				178,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Eggman_Left"
+		},
+		{
+			"offsets": [
+				57,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Eggman_Down"
+		},
+		{
+			"offsets": [
+				-18,
+				214
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nashe",
 			"loop": false,
 			"name": "Eggman_Laugh"
 		}
@@ -71,7 +71,7 @@
 	"image": "characters/eggman_soul",
 	"position": [
 		0,
-		130
+		270
 	],
 	"healthicon": "eggmanexe",
 	"flip_x": false,
@@ -81,9 +81,9 @@
 		0
 	],
 	"camera_position": [
-		-80,
-		-180
+		-130,
+		70
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }

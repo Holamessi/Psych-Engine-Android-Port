@@ -3,75 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				-20,
-				10
+				0,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Tails IDLE",
+			"name": "Beast_IDLE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				1,
-				49
+				79
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Tails UP",
+			"name": "Beast_UP",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-20,
-				-6
+				-200,
+				-56
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Tails RIGHT",
+			"name": "Beast_RIGHT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-40
+				24,
+				-93
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Tails DOWN",
+			"name": "Beast_DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				48,
-				-1
+				148,
+				-91
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Tails LEFT",
+			"name": "Beast_LEFT",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tails",
+	"image": "characters/Beast",
 	"position": [
 		0,
-		270
+		-120
 	],
-	"healthicon": "tails",
+	"healthicon": "beast",
 	"flip_x": false,
 	"healthbar_colors": [
-		102,
-		102,
-		102
+		42,
+		5,
+		118
 	],
 	"camera_position": [
-		-130,
-		70
+		-160,
+		40
 	],
 	"sing_duration": 4,
 	"scale": 1
