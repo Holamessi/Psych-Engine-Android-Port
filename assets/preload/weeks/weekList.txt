@@ -14,9 +14,9 @@ bonus_week
 indiecross
 Ben
 kapi
-Bob parte 1
-Bob parte 2
-Bob parte 3
+Bob part 1
+Bob part 2
+Bob part 3
 Savente
 Savente2
 game
